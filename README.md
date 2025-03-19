@@ -55,6 +55,11 @@ Common LinkedIn Geo IDs:
 
 *You can find additional LinkedIn Geo IDs by inspecting the URL on the LinkedIn jobs search page.*
 
+## 📸 Screenshot
+
+![LinkedIn URL Generator Screenshot](images/github.jpg)
+
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
